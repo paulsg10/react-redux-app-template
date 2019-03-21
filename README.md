@@ -1,6 +1,6 @@
 ## Features
 
-* React 16
+* React/Redux
 * Webpack 4
 * Babel 7
 * Hot Module Replacement
